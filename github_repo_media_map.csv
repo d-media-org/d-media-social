@@ -1,7 +1,4 @@
 ﻿date,slot,png_file,caption_file,repo_relative_path,raw_url_template
-2026-06-11,1,2026-06-11_01.png,2026-06-11_01_caption.txt,assets/2026-06-11_01.png,https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPO_NAME/main/assets/2026-06-11_01.png
-2026-06-11,2,2026-06-11_02.png,2026-06-11_02_caption.txt,assets/2026-06-11_02.png,https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPO_NAME/main/assets/2026-06-11_02.png
-2026-06-11,3,2026-06-11_03.png,2026-06-11_03_caption.txt,assets/2026-06-11_03.png,https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPO_NAME/main/assets/2026-06-11_03.png
 2026-06-12,1,2026-06-12_01.png,2026-06-12_01_caption.txt,assets/2026-06-12_01.png,https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPO_NAME/main/assets/2026-06-12_01.png
 2026-06-12,2,2026-06-12_02.png,2026-06-12_02_caption.txt,assets/2026-06-12_02.png,https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPO_NAME/main/assets/2026-06-12_02.png
 2026-06-12,3,2026-06-12_03.png,2026-06-12_03_caption.txt,assets/2026-06-12_03.png,https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPO_NAME/main/assets/2026-06-12_03.png
